@@ -12,4 +12,8 @@
    68  git push -u origin main
    69  vim notes.md
    70  history
- 
+ 72  git add .
+   73  git commit -m "Crate notes.md"
+   74  git push -u origin main
+   75  vim notes.md
+   76  history
